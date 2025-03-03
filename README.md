@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18482352&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-A foundational tool in the modern developer's toolkit, version control tools keep a historical record of software changes in a specialized database, logging edits made by individual developers. When conflicts emerge, developers can look back and resolve code conflicts, minimizing disruption to the codebase
+A foundational tool in the modern developer's toolkit, version control tools keep a historical record of software changes in a specialized database, logging edits made by individual developers. When conflicts emerge, developers can look back and resolve code conflicts, minimizing disruption to the codebase.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 1. In the upper-right corner of any page, select , then click New repository.
